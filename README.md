@@ -1,2 +1,2 @@
 # Pokemon_Jade_Green
-Making my own pokemon ROM hack
+Attempting to create my own Pokemon ROM hack, let's see how well this goes.
